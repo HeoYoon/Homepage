@@ -15,5 +15,7 @@ I am also studying deep learning with Pytorch.
 If you don't understand my code or are curious about code, please send me an email to yoonh@unist.ac.kr
 
 아 거의 매일 커밋하고 있었는데
+
 이메일 바껴서 이렇게 잔디가 안심어지다니...
+
 다들 git bash에서 git config --list에서 이메일 체크하시길...
