@@ -12,7 +12,7 @@ Data related to research are not upload.
 
 I am also studying deep learning with Pytorch.
 
-If you don't understand my code or are curious about code, please send me an email to yoonh@unist.ac.kr
+If you don't understand my code or are curious about the code, please send me an email to yoonh@unist.ac.kr
 
 아 거의 매일 커밋하고 있었는데
 
